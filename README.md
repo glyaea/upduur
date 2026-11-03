@@ -1,7 +1,7 @@
 # URL Underscore Remover (UUR)
 
-A Chromium extension that removes underscores from URLs entered into the
-address bar.
+A Chromium extension that removes underscores from URLs with underscore-prefixed
+domains entered into the address bar.
 
 ## Installation
 
