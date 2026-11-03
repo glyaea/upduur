@@ -1,4 +1,4 @@
-# Underscore-Prefixed Domain URL Underscore Remover (UPDUUR)
+# Underscore-Prefixed Domain URL Underscore Remover
 
 A Chromium extension that removes underscores from URLs with underscore-prefixed
 domains entered into the address bar.
